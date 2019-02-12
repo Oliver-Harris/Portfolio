@@ -1,0 +1,20 @@
+{
+  "name": "olivermharris.co.uk",
+  "version": "0.0.0",
+  "description": "Development Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/olivermharris/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "gulp",
+    "development"
+  ],
+  "author": "Oliver M. Harris",
+  "license": "ISC"
+}
